@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharthpokhriyal
+- 👋 Hi, I’m Siddharth Pokhriyal :)
 - 👀 I’m interested in learning about new tech!!
 - 🌱 I’m currently working on Microsoft Azure cloud services.
 
